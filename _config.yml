@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+url: "https://pkhssy.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -9,7 +9,7 @@ theme_settings:
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "seoyun's study" # used by search engines
 
   # Header and footer text
   header_text: >
