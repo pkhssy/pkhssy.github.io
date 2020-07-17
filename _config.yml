@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://pkhssy.github.io/"
+remote_theme : rohanchandra/type-theme
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
